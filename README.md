@@ -1,2 +1,2 @@
 # calculator-pascal
-Calculator 
+Simple calculator Written with pascal Programming language! 
